@@ -12,11 +12,11 @@ Frontend: React.js / Next.js (LEARN)
 
 Backend: .NET Core (LEARN)
 
-DATABASE: MySQL/MSSQL (IMPLEMENT IN A REAL LIFE PRODUCT)
+Database: MySQL / MSSQL (IMPLEMENT IN A REAL LIFE PRODUCT)
 
 Deploy: AWS (LEARN)
 
-TESTING: JEST (LEARN)
+Testing: JEST (LEARN)
 
 
 ## Key Features
