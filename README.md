@@ -10,6 +10,8 @@ The Shared House Expense Tracker is a web/mobile application designed to simplif
 
 Frontend: React.js / Next.js (LEARN)
 
+Mobile: React Native (LEARN)
+
 Backend: .NET Core (LEARN)
 
 Database: MySQL / MSSQL (IMPLEMENT IN A REAL LIFE PRODUCT)
